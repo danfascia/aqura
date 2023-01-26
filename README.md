@@ -1,3 +1,5 @@
+![](https://github.com/danfascia/aqura/blob/main/assets/aqura-full-logo.svg)
+
 # Aqura Diagnostics
 
 ## Aquris
